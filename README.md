@@ -1,4 +1,4 @@
-# 🔋 Battery Level Indicator Percentage
+# 🔋 Battery Percentage Level Indicator 
 
 - Battery Level Indicator Percentage Using HTML CSS & JavaScript .
 - Beautiful pill style battery.
